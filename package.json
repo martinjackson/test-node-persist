@@ -1,0 +1,21 @@
+{
+  "name": "test-node-persist",
+  "version": "1.0.0",
+  "description": "test npm node-persist",
+  "main": "main.js",
+  "scripts": {
+    "clean": "rimraf .node-persist/ ",
+    "create": "node ./create.js",
+    "read": "node ./read.js",
+    "test": "npm-run-all clean create read"
+  },
+  "author": "martin A Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "node-persist": "^2.0.7"
+  },
+  "devDependencies": {
+    "npm-run-all": "^3.1.2",
+    "rimraf": "^2.5.4"
+  }
+}

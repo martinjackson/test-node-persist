@@ -18,14 +18,12 @@ test-node-persist\.node-persist\storage\b068931cc450442b63f5b3d276ea4297' `
 
 ### Interesting, but Not Using the following...
 
-[5 steps to making a Node.js frontend app 10x faster]
-[Nodejs-DB List]
-[top-10-common-nodejs-developer-mistakes]
-
-[using-redis-node-js]
-[what-is-redis-and-what-do-i-use-it-for]
-[pouchdb]
-[pouchdb on github]
+- [5 steps to making a Node.js frontend app 10x faster]
+- [Nodejs-DB List]
+- [top-10-common-nodejs-developer-mistakes]
+- [using-redis-node-js]
+- [what-is-redis-and-what-do-i-use-it-for]
+- [pouchdb] [pouchdb on github]
 
 
 [5 steps to making a Node.js frontend app 10x faster]: https://engineering.gosquared.com/making-dashboard-faster
